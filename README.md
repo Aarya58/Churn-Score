@@ -6,6 +6,7 @@ Every user is assigned a prediction value that estimates their state of churn at
 Your task is to predict the churn score for a website based on the features provided in the dataset.
 
 **To Dos:**
+
 1 .Firstly, load your Train Data in your local machine. 
 2. Preprocess your data (Scaling, Categorical to numerical conversion, etc.) 
 3. Split your data into two sets train_test_split(split_size = 0.7) 
